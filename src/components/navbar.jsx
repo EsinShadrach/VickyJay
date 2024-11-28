@@ -15,7 +15,7 @@ const Navbar = () => {
             {/* <h2
               className={`font-clashbold font-semibold text-[18px] md:text-[25px] leading-[]`}
             >
-              VickyJay<span>.</span>
+              Rafe<span>.</span>
             </h2> */}
             <NavLink to="/">
               {({ isActive }) => (
@@ -26,7 +26,7 @@ const Navbar = () => {
                       : "text-white hover:before:w-full"
                   } relative`}
                 >
-                  VickyJay<span>!</span>
+                  Rafe<span>!</span>
                   <span>⚡</span>
                 </div>
               )}
@@ -35,7 +35,7 @@ const Navbar = () => {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://www.github.com/victorola-coder"
+                href="https://www.github.com/Shadrachola-coder"
                 className="group-hover:text-white transition-colors duration-300"
               >
                 <span className="flex items-center gap-[8px] md:gap-[10px]">

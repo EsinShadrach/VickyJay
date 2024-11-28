@@ -34,7 +34,7 @@ const Hero = () => {
             </div>
             <div className="mt-[35px] md:mt-[65px] flex justify-start items-center  gap-[26px] md:gap-[40px]">
               <motion.a
-                href="https://web.facebook.com/victortoluu"
+                href="https://web.facebook.com/Shadrachtoluu"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}
@@ -47,7 +47,7 @@ const Hero = () => {
                 />
               </motion.a>
               <motion.a
-                href="https://twitter.com/HeyVickyJay"
+                href="https://twitter.com/HeyRafe"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}
@@ -60,7 +60,7 @@ const Hero = () => {
                 />
               </motion.a>
               <motion.a
-                href="https://www.instagram.com/vickyjayox"
+                href="https://www.instagram.com/Rafeox"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}
@@ -73,7 +73,7 @@ const Hero = () => {
                 />
               </motion.a>
               <motion.a
-                href="https://www.linkedin.com/in/victor-olatunji-889568246"
+                href="https://www.linkedin.com/in/Shadrach-olatunji-889568246"
                 target="_blank"
                 rel="noreferrer"
                 whileTap={{ scale: 1.1 }}

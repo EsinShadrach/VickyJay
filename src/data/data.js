@@ -67,7 +67,7 @@ export const projects = [
   },
   {
     name: "30DaysOfCode",
-    desc: "30 Days of Code Challenge With VickyJay",
+    desc: "30 Days of Code Challenge With Rafe",
     lang: "Next TS + TailwindCss + Firebase",
     link: "https://30days-proto.vercel.app/",
   },

@@ -1,6 +1,6 @@
-# VickyJay - Personal Portfolio Website
+# Rafe - Personal Portfolio Website
 
-![VickyJay's Portfolio Screenshot](./public/images/cover.png)
+![Rafe's Portfolio Screenshot](./public/images/cover.png)
 
 Welcome to my personal portfolio! This project showcases my frontend development skills and projects I've worked on. Feel free to explore the different sections to learn more about me and my work.
 
@@ -24,7 +24,7 @@ Welcome to my personal portfolio! This project showcases my frontend development
 
 1.  Fork
 2.  Clone the forked repository to your local machine using `git clone`.
-3.  Navigate to the project directory: `cd vickyjay`.
+3.  Navigate to the project directory: `cd Rafe`.
 4.  Install project dependencies using `npm install`.
 5.  Start the development server: `npm run dev`.
 6.  Open your web browser and navigate to `http://localhost:5173` to view the portfolio.
@@ -38,8 +38,8 @@ Feel free to customize this portfolio to showcase your own projects and skills. 
 If you have any questions or would like to get in touch, you can reach me at:
 
 - Email: victoluolatunji@gmail.com
-- GitHub: [Vitorola-coder](https://github.com/Victorla-coder)
-- Portfolio: [preview](https://www.vickyjay.dev)
+- GitHub: [Vitorola-coder](https://github.com/Shadrachla-coder)
+- Portfolio: [preview](https://www.Rafe.dev)
 
 ## Todos
 

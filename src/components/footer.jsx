@@ -24,7 +24,7 @@ const Footer = () => {
               <Copyright className="size-[18px] md:size-[20px]" />
             </span>
             <p className={`text-[#FFFFFF99] md:text-xl text-lg font-medium`}>
-              Victorola
+              Shadrachola
               <span className="text-[#FFFFFF] text-[14px] lg:text-base">
                 {" "}
                 2021 -
@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
         <div className="mt-[10px] md:mt-[65px] flex justify-start items-center gap-[20px] md:gap-[40px]">
           <motion.a
-            href="https://web.facebook.com/victortoluu"
+            href="https://web.facebook.com/Shadrachtoluu"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -53,7 +53,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://twitter.com/HeyVickyJay"
+            href="https://twitter.com/HeyRafe"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -66,7 +66,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://www.instagram.com/vickyjayox"
+            href="https://www.instagram.com/Rafeox"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
@@ -79,7 +79,7 @@ const Footer = () => {
             />
           </motion.a>
           <motion.a
-            href="https://www.linkedin.com/in/victor-olatunji-889568246"
+            href="https://www.linkedin.com/in/Shadrach-olatunji-889568246"
             target="_blank"
             rel="noreferrer"
             whileTap={{ scale: 1.1 }}
