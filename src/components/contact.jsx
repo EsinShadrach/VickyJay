@@ -50,9 +50,9 @@ const Contact = () => {
           </div>
           <a
             className={`text-[#FFFFFF99] font-medium text-base md:text-[20px] md:leading-[30px]`}
-            href="mailto:victoluolatunji@gmail.com"
+            href="mailto:rafeesin@gmail.com"
           >
-            victoluolatunji@gmail.com
+            rafeesin@gmail.com
           </a>
         </div>
         <div className="flex flex-col items-center gap-[10px]">
@@ -62,10 +62,10 @@ const Contact = () => {
             />
           </div>
           <a
-            href="tel:+2349075789680"
+            href="tel:+2348082040110"
             className={`text-[#FFFFFF99] tex-base font-medium md:text-[20px] md:leading-[30px]`}
           >
-            +2349075789680
+            +2348082040110
           </a>
         </div>
         <div className="flex flex-col items-center gap-[10px]">

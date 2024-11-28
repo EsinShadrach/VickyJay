@@ -4,7 +4,7 @@ const creator = "Rafe";
 const author = creator;
 
 export const url = (slug) => {
-  return `https://Shadrachola.me/${slug ?? ""}`;
+  return `https://rafe-esin.com/${slug ?? ""}`;
 };
 export const SEOdata = {
   homePage: {

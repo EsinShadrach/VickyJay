@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     react(),
     Sitemap({
-      hostname: "https://Shadrachola.me",
+      hostname: "https://rafe-esin.com",
       dynamicRoutes: ["/"],
     }),
   ],

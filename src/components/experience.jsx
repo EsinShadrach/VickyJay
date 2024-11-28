@@ -163,7 +163,7 @@ const Experience = () => {
             {/* RESUME */}
             <Resume
               pdfUrl={resumeUrl}
-              fileName="Shadrach Olatunji.pdf"
+              fileName="Shadrach Esin.pdf"
               buttonText="Download Resume"
             />
           </div>

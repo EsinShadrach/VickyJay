@@ -131,6 +131,10 @@ export const skills = [
     title: "TypeScript",
   },
   {
+    id: 16,
+    title: "Flutter",
+  },
+  {
     id: 7,
     title: "Jquery",
   },
